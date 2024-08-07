@@ -1,0 +1,23 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.j900 { font-weight: 900; font-family: 'JetBrains Mono Variable'; }
+.j800 { font-weight: 800; font-family: 'JetBrains Mono Variable'; }
+.j700 { font-weight: 700; font-family: 'JetBrains Mono Variable'; }
+.j600 { font-weight: 600; font-family: 'JetBrains Mono Variable'; }
+.j500 { font-weight: 500; font-family: 'JetBrains Mono Variable'; }
+.j400 { font-weight: 400; font-family: 'JetBrains Mono Variable'; }
+.j300 { font-weight: 300; font-family: 'JetBrains Mono Variable'; }
+.j200 { font-weight: 200; font-family: 'JetBrains Mono Variable'; }
+.j100 { font-weight: 100; font-family: 'JetBrains Mono Variable'; }
+
+.i900 { font-weight: 900; font-family: 'Inter Variable'; }
+.i800 { font-weight: 800; font-family: 'Inter Variable'; }
+.i700 { font-weight: 700; font-family: 'Inter Variable'; }
+.i600 { font-weight: 600; font-family: 'Inter Variable'; }
+.i500 { font-weight: 500; font-family: 'Inter Variable'; }
+.i400 { font-weight: 400; font-family: 'Inter Variable'; }
+.i300 { font-weight: 300; font-family: 'Inter Variable'; }
+.i200 { font-weight: 200; font-family: 'Inter Variable'; }
+.i100 { font-weight: 100; font-family: 'Inter Variable'; }
